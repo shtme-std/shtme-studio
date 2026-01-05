@@ -42,7 +42,7 @@ export default function Home() {
       className="min-h-screen flex flex-col bg-center bg-no-repeat"
       style={{ 
         backgroundImage: "url('/background.jpg')",
-        backgroundSize: '45%',
+        backgroundSize: '110%',
         backgroundColor: '#f9fafb' 
       }}
     >
