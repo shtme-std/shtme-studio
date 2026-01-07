@@ -113,13 +113,13 @@ export default function Home() {
             textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000' 
           }}
         >
-          👆 Tap the buttons above to visit our links
+          
         </p>
       </main>
 
       <footer className="mt-auto py-4 px-4 text-center bg-black-900">
         <p className="text-white text-xs sm:text-sm">
-          Made with ❤️ by shtmeXakil
+          Made with by shtmeXakil
         </p>
       </footer>
     </div>
